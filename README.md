@@ -1,2 +1,2 @@
 # csharp
-My c# projects for self-improvement purposes.
+My c# projects for learning purposes.
